@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    background:#1f1517;
+    color: #FFFFFF;
+}
+
+html {
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
